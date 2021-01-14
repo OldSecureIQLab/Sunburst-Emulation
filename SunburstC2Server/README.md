@@ -211,9 +211,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-SecureIQlab [https://www.linkedin.com/company/secureiqlab] ,CreatePhotonW - [@CreatePhotonW](https://twitter.com/CreatePhotonW)
+SecureIQlab:https://www.linkedin.com/company/secureiqlab ,CreatePhotonW - [@CreatePhotonW](https://twitter.com/CreatePhotonW)
 
-Project Link: [https://github.com/secureiqlab/Sunburst-Emulation],[https://github.com/CreatePhotonW/SunburstC2Server]
+Project Link:https://github.com/secureiqlab/Sunburst-Emulation,[https://github.com/CreatePhotonW/SunburstC2Server]
 
 
 
